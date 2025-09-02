@@ -1,9 +1,9 @@
-#### Flappy Bird AI with Genetic Algorithm
+## Flappy Bird AI with Genetic Algorithm
 
 ## Project Overview
 This project implements an AI-powered Flappy Bird game using a neural network and genetic algorithm to train birds to navigate through pipes. The system uses an evolutionary approach where birds learn to play the game through successive generations of selection, crossover, and mutation.
 
-### Technical Architecture
+## Technical Architecture
 ## Neural Network Implementation
 The AI uses a feedforward neural network with the following architecture:
 Input layer: 7 nodes processing game state information
@@ -88,4 +88,5 @@ NumPy library
 This implementation demonstrates practical application of genetic algorithms for training neural networks to solve navigation challenges in game environments. The system shows clear improvement over successive generations through selective reproduction and mutation.
 
 The project provides a foundation for further experimentation with different network architectures, selection strategies, and game parameters, showcasing machine learning concepts in an accessible game development context.
+
 
